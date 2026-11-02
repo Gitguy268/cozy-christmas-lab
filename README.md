@@ -2,7 +2,7 @@
 
 # Cozy Christmas Lab
 
-An 8-bit Christmas scene with a black labrador, in one HTML file.
+An 8-bit room with a labrador, a Christmas tree and snow falling outside, in one HTML file.
 
 </div>
 
