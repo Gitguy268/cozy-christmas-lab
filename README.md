@@ -6,6 +6,10 @@ An 8-bit Christmas scene with a black labrador, in one HTML file.
 
 </div>
 
+<!-- live-links -->
+**Live:** [gitguy268.github.io/cozy-christmas-lab](https://gitguy268.github.io/cozy-christmas-lab/) · [cozy-christmas-lab.vercel.app](https://cozy-christmas-lab.vercel.app)
+<!-- /live-links -->
+
 <!-- run-steps:start -->
 ## Run it locally, step by step
 
